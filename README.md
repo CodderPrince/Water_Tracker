@@ -1,7 +1,6 @@
 # Water_Tracker 💧📊
 ---
 
-````markdown
 
 
 **A Flutter app to help you meet your daily hydration goal with fun animations, goal celebration, and sound feedback.**
@@ -11,7 +10,18 @@
 </div>
 
 ---
+---
 
+## 🖼️ App UI Preview
+
+<p align="center">
+  <img src="https://github.com/CodderPrince/Water_Tracker/blob/main/UI/Screenshot_20250804_025000.png" width="260" />
+  <img src="https://github.com/CodderPrince/Water_Tracker/blob/main/UI/Screenshot_20250804_025008.png" width="260" />
+  <img src="https://github.com/CodderPrince/Water_Tracker/blob/main/UI/Screenshot_20250804_025018.png" width="260" />
+  <img src="https://github.com/CodderPrince/Water_Tracker/blob/main/UI/Screenshot_20250804_025026.png" width="260" />
+</p>
+
+---
 ## ✨ Main Features
 
 - 💧 **Track daily water intake** with preset quick-add buttons (200ml, 500ml, 1000ml)  
@@ -73,24 +83,24 @@ https://github.com/CodderPrince/Water_Tracker/blob/main/Water%20Tracker%20App1/w
 ## 🚧 Setup / Development
 
 1. Clone the repo:
-   ```sh
+```
    git clone https://github.com/CodderPrince/Water_Tracker.git
-````
+```
 
 2. Navigate into the Flutter project:
 
-   ```sh
+   ```
    cd "Water Tracker App/water_tracker"
    ```
 3. Get dependencies:
 
-   ```sh
+   ```
    flutter pub get
    ```
 4. Ensure the asset `assets/sounds/win.mp3` exists and is declared in `pubspec.yaml`.
 5. Run the app:
 
-   ```sh
+   ```
    flutter run
    ```
 
@@ -127,6 +137,5 @@ Feel free to **fork**, **customize**, or contribute.
 📤 *Share with classmates, educators, or anyone trying to stay hydrated.*
 
 ```
-
 You can drop that into `README.md` at your repo root. Want a version trimmed for a GitHub description or a `README` with YAML frontmatter for a site?
 ```
