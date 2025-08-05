@@ -2,7 +2,7 @@ name: water_tracker1
 description: "A new Flutter project."
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: ^3.7.2
@@ -30,4 +30,5 @@ flutter_icons:
 flutter:
   uses-material-design: true
   assets:
-    - assets/sounds/win.mp3
+    - assets/sounds/
+
