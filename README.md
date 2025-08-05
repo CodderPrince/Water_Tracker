@@ -135,7 +135,3 @@ Feel free to **fork**, **customize**, or contribute.
 
 ⭐ *Star the repo if you find it helpful.*
 📤 *Share with classmates, educators, or anyone trying to stay hydrated.*
-
-```
-You can drop that into `README.md` at your repo root. Want a version trimmed for a GitHub description or a `README` with YAML frontmatter for a site?
-```
