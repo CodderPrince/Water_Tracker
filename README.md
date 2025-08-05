@@ -53,9 +53,9 @@
 **Icon source:**  
 `assets/icons/water.png` in the repo.  
 View online:
-```
+
 https://github.com/CodderPrince/Water_Tracker/blob/main/Water%20Tracker%20App1/water_tracker1/assets/icons/water.png
-```
+
 ---
 
 ## 📦 Technologies Used
